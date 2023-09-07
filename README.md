@@ -31,4 +31,5 @@ We value your feedback! If you have any suggestions, encounter issues, or would 
 ## Screenshot
 
 
-![Alt Text]("C:\Users\aruni\Pictures\demo pic.PNG")
+![Image Alt Text](/demo%20pic.PNG)
+
